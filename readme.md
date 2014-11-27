@@ -1,4 +1,4 @@
-~~EulerProject~~
+~EulerProject~
 
 projecteuler.net sorularının çözümleri
 
